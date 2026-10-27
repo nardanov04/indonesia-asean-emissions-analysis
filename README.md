@@ -8,6 +8,8 @@ Analysis of Indonesia's greenhouse gas emissions vs 9 other ASEAN countries (201
 
 ## Summary
 
+![Dashboard preview](images/dashboard.png)
+
 Indonesia has committed to net zero emissions by 2060, yet it is also one of the largest greenhouse gas emitters in ASEAN. This project uses Climate TRACE data to find out how Indonesia compares with 9 other ASEAN countries and which subsectors drive its emissions, so reduction efforts can be prioritized where they matter.
 
 **Key findings**
@@ -24,6 +26,7 @@ Indonesia has committed to net zero emissions by 2060, yet it is also one of the
 | `asean_emissions_analysis.ipynb` | Python notebook covering data cleaning and the full analysis |
 | `raw_country_emissions.csv` | Extracted dataset from PostgreSQL (7,480 rows, 5 columns) |
 | `clean_country_emissions.csv` | Cleaned dataset used for the analysis (7,040 rows, 5 columns) |
+| `images/dashboard.png` | Preview of the Tableau dashboard |
 | `LICENSE` | MIT License |
 
 ## Workflow
